@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000023B.html"],['467',"Bomberman.WPF.ViewModel.KeyBinding Namespace","topic_00000000000000E0.html"],['468',"KeyBindingData Class","topic_00000000000000E1.html"],['470',"Properties","topic_00000000000000E1_props--.html"],['481',"RightClickCommand Property","topic_00000000000000ED.html"]];

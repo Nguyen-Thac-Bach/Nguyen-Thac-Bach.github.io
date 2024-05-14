@@ -1,0 +1,1 @@
+search_result['61']=["topic_000000000000001F.html","MapModel.Size Property","Gets the size of the map."];

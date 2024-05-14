@@ -1,0 +1,1 @@
+search_result['149']=["topic_000000000000004F.html","Chest.Destroy Method","Destroys the chest. Empty method."];

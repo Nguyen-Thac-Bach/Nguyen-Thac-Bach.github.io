@@ -1,0 +1,1 @@
+search_result['181']=["topic_0000000000000060.html","Creature.Destroy Method","removes the creature from the field matrix and stops the timer."];

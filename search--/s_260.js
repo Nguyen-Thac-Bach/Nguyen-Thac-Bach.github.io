@@ -1,0 +1,1 @@
+search_result['260']=["topic_0000000000000092.html","Model(MapModel, Int32, Int32, IDataAccess) Constructor","Helper constructor for generating maps. Helpful for testing and creating maps."];

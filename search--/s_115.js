@@ -1,0 +1,1 @@
+search_result['115']=["topic_0000000000000041.html","BombPlantProblem.Destroy Method","Destroys the Bomb Plant Problem."];

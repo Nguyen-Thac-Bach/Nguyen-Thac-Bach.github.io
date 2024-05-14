@@ -1,0 +1,1 @@
+search_result['524']=["topic_00000000000001AD.html","PlayerData.DetonatorActive Property","detonator status of the player"];

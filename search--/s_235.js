@@ -1,0 +1,1 @@
+search_result['235']=["topic_000000000000007F.html","Model Class","Represents the model of the Bomberman game."];

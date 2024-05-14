@@ -1,0 +1,1 @@
+search_result['108']=["topic_000000000000003F.html","BombCounterUp.GetInstance Method","Gets the instance of the Bomb Counter Up boost."];

@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000023B.html"],['381',"Bomberman.WPF.ViewModel Namespace","topic_0000000000000103.html"],['382',"DelegateCommand Class","topic_0000000000000104.html"],['386',"Methods","topic_0000000000000104_methods--.html"],['387',"CanExecute Method","topic_0000000000000108.html"]];

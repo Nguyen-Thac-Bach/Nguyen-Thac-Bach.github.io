@@ -1,0 +1,1 @@
+search_result['282']=["topic_00000000000000A4.html","Model.BombsStart Method","starts all bombs\u0027 timers"];

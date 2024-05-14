@@ -1,0 +1,1 @@
+search_result['216']=["topic_000000000000006F.html","Ghost.Destroy Method","Destroys the Ghost."];

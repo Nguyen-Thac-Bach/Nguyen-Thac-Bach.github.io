@@ -1,0 +1,1 @@
+search_result['100']=["topic_000000000000003C.html","Bomb.BombTimerStarter Method","public method to start the bomb timer, even though the timer is already public in the first place"];

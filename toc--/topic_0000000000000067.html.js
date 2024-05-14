@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000023B.html"],['4',"Bomberman.Model Namespace","topic_0000000000000025.html"],['81',"Detonator Class","topic_0000000000000066.html"],['82',"Methods","topic_0000000000000066_methods--.html"],['83',"Destroy Method","topic_0000000000000067.html"]];

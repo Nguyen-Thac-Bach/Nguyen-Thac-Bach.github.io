@@ -1,0 +1,1 @@
+search_result['187']=["topic_0000000000000066.html","Detonator Class","Represents a detonator boost in the Bomberman game."];

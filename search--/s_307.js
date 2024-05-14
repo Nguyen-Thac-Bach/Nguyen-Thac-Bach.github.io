@@ -1,0 +1,1 @@
+search_result['307']=["topic_00000000000000B7.html","Player(Int32, Int32, Int32, Boolean, List\u0026lt;Boost\u0026gt;, List\u0026lt;Bomb\u0026gt;, Int32, Int32, Int32, Int32, Dictionary\u0026lt;StringDirection\u0026gt;, Model) Constructor","constructor for the player class. keybindings are set"];

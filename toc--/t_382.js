@@ -1,0 +1,1 @@
+c['382']=[['383',"DelegateCommand Constructor","topic_0000000000000105_overloads--.html",1],['386',"Methods","topic_0000000000000104_methods--.html",1],['390',"Events","topic_0000000000000104_events--.html",1]];

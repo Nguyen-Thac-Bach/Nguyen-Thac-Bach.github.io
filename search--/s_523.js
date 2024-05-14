@@ -1,0 +1,1 @@
+search_result['523']=["topic_00000000000001AC.html","PlayerData.DetonationSize Property","detonation size of the player"];

@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000023B.html"],['192',"Bomberman.Model.EventArguments Namespace","topic_0000000000000000.html"],['199',"GameEventArgs Class","topic_0000000000000006.html"],['200',"GameEventArgs Constructor","topic_000000000000000A.html"]];

@@ -1,0 +1,1 @@
+c['405']=[['406',"NewGameSettingsWindowVM Constructor","topic_00000000000001A1.html",0],['407',"Properties","topic_0000000000000194_props--.html",1],['418',"Methods","topic_0000000000000194_methods--.html",1],['421',"Events","topic_0000000000000194_events--.html",1]];

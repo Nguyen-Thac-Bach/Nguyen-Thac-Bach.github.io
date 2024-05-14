@@ -1,0 +1,1 @@
+search_result['334']=["topic_00000000000000C7.html","Wall Class","Represents a wall in the Bomberman game."];

@@ -1,0 +1,1 @@
+search_result['176']=["topic_000000000000005B.html","xPosition Field","Gets or sets the x position of the creature."];

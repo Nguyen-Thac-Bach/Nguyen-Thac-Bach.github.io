@@ -1,0 +1,1 @@
+search_result['117']=["topic_0000000000000043.html","BombSizeDown Class","Represents a power-up that decreases the size of the bomb explosion."];

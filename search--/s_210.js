@@ -1,0 +1,1 @@
+search_result['210']=["topic_000000000000006E.html","Ghost Class","Represents a Ghost in the Bomberman game."];

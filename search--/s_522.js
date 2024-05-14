@@ -1,0 +1,1 @@
+search_result['522']=["topic_00000000000001AB.html","PlayerData.BombCapacity Property","bomb capacity of the player"];

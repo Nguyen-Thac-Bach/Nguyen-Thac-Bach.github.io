@@ -1,0 +1,1 @@
+search_result['457']=["topic_0000000000000104.html","DelegateCommand Class","Represents a command that can be executed. Check sudoku project for more details."];

@@ -1,0 +1,1 @@
+search_result['170']=["topic_000000000000005A.html","Creature Class","Represents a creature in the Bomberman game. Fields and attributes are meshed together in this class (wrongly)."];

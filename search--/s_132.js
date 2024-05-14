@@ -1,0 +1,1 @@
+search_result['132']=["topic_0000000000000048.html","BombSizeUp.GetInstance Method","Gets the instance of the BombSizeUp boost."];

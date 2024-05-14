@@ -1,0 +1,1 @@
+search_result['486']=["topic_0000000000000192.html","GameParts(Int32, Int32, Int32, FieldValue, DelegateCommand) Constructor","constructor for the game parts for editor mode"];

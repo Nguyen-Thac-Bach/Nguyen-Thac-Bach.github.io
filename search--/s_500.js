@@ -1,0 +1,1 @@
+search_result['500']=["topic_000000000000019A.html","NewGameSettingsWindowVM.NumberOfRoundsString Property","number of rounds as string"];

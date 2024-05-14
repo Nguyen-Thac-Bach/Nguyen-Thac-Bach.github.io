@@ -1,0 +1,1 @@
+search_result['437']=["topic_00000000000000F2.html","KeyChangeEventArgs.GetDirection Method","Gets the direction associated with the key change event."];

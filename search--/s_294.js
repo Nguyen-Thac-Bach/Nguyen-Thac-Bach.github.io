@@ -1,0 +1,1 @@
+search_result['294']=["topic_00000000000000AB.html","bombs Field","list of bombs the player has"];

@@ -1,0 +1,1 @@
+search_result['193']=["topic_0000000000000067.html","Detonator.Destroy Method","Destroys the detonator."];

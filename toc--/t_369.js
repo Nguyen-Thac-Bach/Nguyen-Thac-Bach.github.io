@@ -1,0 +1,1 @@
+c['369']=[['370',"GameResultWindow Constructor","topic_00000000000000D5.html",0]];

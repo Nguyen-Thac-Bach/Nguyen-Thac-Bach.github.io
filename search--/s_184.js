@@ -1,0 +1,1 @@
+search_result['184']=["topic_0000000000000063.html","Creature.singleMove Method","moves the creature to the specified position. if the position is not valid, it returns false. Assumes that this is only used for adjacent movement, even though teleportation is entirely possible."];

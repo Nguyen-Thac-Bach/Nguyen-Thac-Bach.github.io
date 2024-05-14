@@ -1,0 +1,1 @@
+c['94']=[['95',"Destroy Method","topic_0000000000000072.html",0],['96',"GetInstance Method","topic_0000000000000073.html",0]];

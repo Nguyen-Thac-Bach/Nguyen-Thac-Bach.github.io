@@ -1,0 +1,1 @@
+search_result['64']=["topic_0000000000000022.html","MapModel.WallPositions Property","Gets the positions of the walls on the map."];

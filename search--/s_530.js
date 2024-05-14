@@ -1,0 +1,1 @@
+search_result['530']=["topic_00000000000001B3.html","PlayerData.BombSizeDownActive Property","bomb size down status of the player"];

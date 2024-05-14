@@ -1,0 +1,1 @@
+search_result['298']=["topic_00000000000000AF.html","bombCapacity Field","bomb capacity of the player"];

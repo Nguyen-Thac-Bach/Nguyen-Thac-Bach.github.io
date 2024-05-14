@@ -1,0 +1,1 @@
+search_result['502']=["topic_000000000000019C.html","NewGameSettingsWindowVM.NumberOfRoundsError Property","error message for number of rounds"];

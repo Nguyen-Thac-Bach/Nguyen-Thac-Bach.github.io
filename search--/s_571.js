@@ -1,0 +1,1 @@
+search_result['571']=["topic_00000000000001CD.html","App Constructor","Alkalmazás példányosítása."];

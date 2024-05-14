@@ -1,0 +1,1 @@
+search_result['180']=["topic_000000000000005F.html","Creature Constructor","constructor for the creature. parameter names are self-explanatory."];

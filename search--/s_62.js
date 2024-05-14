@@ -1,0 +1,1 @@
+search_result['62']=["topic_0000000000000020.html","MapModel.CreaturePositions Property","Gets the positions of the creatures on the map."];

@@ -1,0 +1,1 @@
+search_result['482']=["topic_000000000000018F.html","GameParts.Number Property","needed for editor mode. combines x and y coordinates to a single number, so it is easier to use for databinding"];

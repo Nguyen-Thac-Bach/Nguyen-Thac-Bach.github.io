@@ -1,0 +1,1 @@
+search_result['225']=["topic_0000000000000073.html","InstantPlant.GetInstance Method","Gets the instance of the InstantPlant boost."];

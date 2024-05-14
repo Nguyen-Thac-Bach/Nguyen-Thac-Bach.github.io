@@ -1,0 +1,1 @@
+search_result['97']=["topic_0000000000000039.html","Bomb.singleFieldBoom Method","detonates a single field, returns if the next field should be detonated"];

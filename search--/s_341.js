@@ -1,0 +1,1 @@
+search_result['341']=["topic_00000000000000C9.html","Wall.GetInstance Method","Gets the instance of the wall."];

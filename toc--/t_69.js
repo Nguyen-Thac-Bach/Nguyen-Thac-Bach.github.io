@@ -1,0 +1,1 @@
+c['69']=[['70',"CreatureTimerStarter Method","topic_0000000000000065.html",0],['71',"CreatureTimerStopper Method","topic_0000000000000064.html",0],['72',"Destroy Method","topic_0000000000000060.html",0],['73',"Die Method","topic_0000000000000062.html",0],['74',"Move Method","topic_0000000000000061.html",0],['75',"singleMove Method","topic_0000000000000063.html",0]];

@@ -1,0 +1,1 @@
+search_result['98']=["topic_000000000000003A.html","Bomb.ExplosionClean Method","Removes explosions from the field. Not necessarily thread safe :("];

@@ -1,0 +1,1 @@
+search_result['109']=["topic_0000000000000040.html","BombPlantProblem Class","Represents a Bomb Plant Problem, which is a type of Boost."];

@@ -1,0 +1,1 @@
+search_result['507']=["topic_00000000000001A1.html","NewGameSettingsWindowVM Constructor","constructor for the new game settings window"];

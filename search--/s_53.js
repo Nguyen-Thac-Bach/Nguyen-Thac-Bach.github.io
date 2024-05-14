@@ -1,0 +1,1 @@
+search_result['53']=["topic_000000000000001C.html","KeySettingsModel.SetToDefault Method","Sets the key bindings to default"];

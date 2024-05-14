@@ -1,0 +1,1 @@
+search_result['503']=["topic_000000000000019D.html","NewGameSettingsWindowVM.ReturnToMainMenuCommand Property","delegate command for returning to main menu"];

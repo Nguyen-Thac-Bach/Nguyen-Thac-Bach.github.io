@@ -1,0 +1,1 @@
+search_result['558']=["topic_00000000000001C5.html","ViewModelMain.ClearTable Method","sets the table to empty"];

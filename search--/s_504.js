@@ -1,0 +1,1 @@
+search_result['504']=["topic_000000000000019E.html","NewGameSettingsWindowVM.StartGameCommand Property","delegate command for starting the game"];

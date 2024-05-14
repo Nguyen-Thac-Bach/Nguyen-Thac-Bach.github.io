@@ -1,0 +1,1 @@
+search_result['315']=["topic_00000000000000BE.html","Player.Die Method","if the player is not invulnerable, it dies"];

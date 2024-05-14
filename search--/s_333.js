@@ -1,0 +1,1 @@
+search_result['333']=["topic_00000000000000C6.html","Slow.GetInstance Method","Gets the instance of the Slow boost."];

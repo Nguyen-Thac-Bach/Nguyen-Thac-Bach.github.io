@@ -1,0 +1,1 @@
+search_result['217']=["topic_0000000000000070.html","Ghost.GetInstance Method","Gets the instance of the Ghost."];
